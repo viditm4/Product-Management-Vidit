@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{683F11E2-E51A-4022-B0A7-B77718BD30FD}"
+	ProjectSection(SolutionItems) = preProject
+		Daily-Work-Vidit.txt = Daily-Work-Vidit.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18FB6076-CD97-44B4-9B26-525E4348C623}
+	EndGlobalSection
+EndGlobal
