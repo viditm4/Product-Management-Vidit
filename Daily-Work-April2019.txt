@@ -1,0 +1,40 @@
+Monday 22-April***********************************************************************
+a) Client interview with CBRE 
+	--> Cover about Scrum using Story points estimation and question list that other AM has shared.
+	--> Scrum vs Kanban (Run the business and Support category)
+	--> Story points estimations (in details)
+	--> Planning Poker, Relative T-Shirt sizing & Fabonacci Series
+
+b) Scrum and TFS Videos of Youtube (1 Hr)
+c) Pluralsight Videos on Scrum team using TFS
+d) Discussion with HR for change in CTC
+e) Going through DevOps Videos (1 Hr)
+f) PF Forms Submission
+g) Dicussion with Panda
+
+Tuesday 23-April***********************************************************************
+a) Scrum and TFS Videos using Youtube (2 Hr)
+
+Wednesday 24-April***********************************************************************
+
+Thursday 25-April***********************************************************************
+
+Friday 26-April***********************************************************************
+
+Monday 29-April***********************************************************************
+Project Management Training
+a) Effort Estimation: 
+https://nagarro.sharepoint.com/portals/hub/_layouts/15/PointPublishing.aspx?app=video&p=p&chid=e278e54a-083c-4272-81e6-374e93b5fea1&vid=77568766-a3d8-49f2-b153-858b2a3f5444
+
+Pluralsight Course: Scrum Essentials Exam Prep
+NagarroU Courses for Delivery Folks : 
+Pluralsight Course: Managerial communication skills
+
+DevOps: 
+https://app.pluralsight.com/library/courses/devops-big-picture/table-of-contents
+https://app.pluralsight.com/library/courses/implementing-devops-real-world/table-of-contents
+
+Tuesday 29-April***********************************************************************
+Pluralsight Course: Scrum Essentials Exam Prep
+Product Management @ Nagarro
+https://nagarro.sharepoint.com/portals/hub/_layouts/15/PointPublishing.aspx?app=video&p=p&chid=e278e54a-083c-4272-81e6-374e93b5fea1&vid=1f1a2f8c-7a61-4fd4-9fb7-fde2ca004870

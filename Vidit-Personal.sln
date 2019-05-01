@@ -4,10 +4,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{683F11E2-E51A-4022-B0A7-B77718BD30FD}"
-	ProjectSection(SolutionItems) = preProject
-		Daily-Work-May2019.txt = Daily-Work-May2019.txt
-		Daily-Work-Vidit.txt = Daily-Work-Vidit.txt
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Coursera Product Management", "Coursera Product Management", "{16A02FB0-6C1B-4A03-AC98-D9777D441230}"
 EndProject
@@ -20,6 +16,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PMP Simplilearn", "PMP Simp
 		C:\Users\viditmalik\Downloads\Slides.zip = C:\Users\viditmalik\Downloads\Slides.zip
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Months-Work-Details", "Months-Work-Details", "{21BF597B-A091-43CD-A1B1-3B632F021E14}"
+	ProjectSection(SolutionItems) = preProject
+		Daily-Work-April2019.txt = Daily-Work-April2019.txt
+		Daily-Work-May2019.txt = Daily-Work-May2019.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -27,6 +29,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{16A02FB0-6C1B-4A03-AC98-D9777D441230} = {683F11E2-E51A-4022-B0A7-B77718BD30FD}
 		{636B4BFB-D98B-45D4-83BE-F2B3618C6C5B} = {683F11E2-E51A-4022-B0A7-B77718BD30FD}
+		{21BF597B-A091-43CD-A1B1-3B632F021E14} = {683F11E2-E51A-4022-B0A7-B77718BD30FD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {18FB6076-CD97-44B4-9B26-525E4348C623}
