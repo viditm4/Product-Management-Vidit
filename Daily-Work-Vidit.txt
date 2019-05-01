@@ -4,7 +4,6 @@ a) Client interview with CBRE
 	--> Scrum vs Kanban (Run the business and Support category)
 	--> Story points estimations (in details)
 	--> Planning Poker, Relative T-Shirt sizing & Fabonacci Series
-
 b) Scrum and TFS Videos of Youtube (1 Hr)
 c) Pluralsight Videos on Scrum team using TFS
 d) Discussion with HR for change in CTC
@@ -18,7 +17,5 @@ a) Scrum and TFS Videos using Youtube (2 Hr)
 Wednesday 24-April*******************************
 
 Thursday 25-April********************************
-
-Friday 26-April**********************************
 
 Friday 26-April**********************************

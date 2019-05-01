@@ -5,12 +5,28 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{683F11E2-E51A-4022-B0A7-B77718BD30FD}"
 	ProjectSection(SolutionItems) = preProject
+		Daily-Work-May2019.txt = Daily-Work-May2019.txt
 		Daily-Work-Vidit.txt = Daily-Work-Vidit.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Coursera Product Management", "Coursera Product Management", "{16A02FB0-6C1B-4A03-AC98-D9777D441230}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PMP Simplilearn", "PMP Simplilearn", "{636B4BFB-D98B-45D4-83BE-F2B3618C6C5B}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\viditmalik\Downloads\Case_Studies.zip = C:\Users\viditmalik\Downloads\Case_Studies.zip
+		C:\Users\viditmalik\Downloads\PMP_Practice_Test_Papers.zip = C:\Users\viditmalik\Downloads\PMP_Practice_Test_Papers.zip
+		C:\Users\viditmalik\Downloads\Projects.zip = C:\Users\viditmalik\Downloads\Projects.zip
+		C:\Users\viditmalik\Downloads\Quick_Reference_Guides.zip = C:\Users\viditmalik\Downloads\Quick_Reference_Guides.zip
+		C:\Users\viditmalik\Downloads\Slides.zip = C:\Users\viditmalik\Downloads\Slides.zip
 	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{16A02FB0-6C1B-4A03-AC98-D9777D441230} = {683F11E2-E51A-4022-B0A7-B77718BD30FD}
+		{636B4BFB-D98B-45D4-83BE-F2B3618C6C5B} = {683F11E2-E51A-4022-B0A7-B77718BD30FD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {18FB6076-CD97-44B4-9B26-525E4348C623}
