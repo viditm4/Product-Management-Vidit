@@ -19,7 +19,14 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Months-Work-Details", "Months-Work-Details", "{21BF597B-A091-43CD-A1B1-3B632F021E14}"
 	ProjectSection(SolutionItems) = preProject
 		Daily-Work-April2019.txt = Daily-Work-April2019.txt
+		Daily-Work-August2019.txt = Daily-Work-August2019.txt
+		Daily-Work-December2019.txt = Daily-Work-December2019.txt
+		Daily-Work-July2019.txt = Daily-Work-July2019.txt
+		Daily-Work-June2019.txt = Daily-Work-June2019.txt
 		Daily-Work-May2019.txt = Daily-Work-May2019.txt
+		Daily-Work-November2019.txt = Daily-Work-November2019.txt
+		Daily-Work-October2019.txt = Daily-Work-October2019.txt
+		Daily-Work-September2019.txt = Daily-Work-September2019.txt
 	EndProjectSection
 EndProject
 Global
