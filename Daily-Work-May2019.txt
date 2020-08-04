@@ -1,9 +1,115 @@
+Employee Code: 3150728;
 May-01, Wednesday***********************************************************************
 How to Account Management and grow existing accounts
 https://nagarro.sharepoint.com/portals/hub/_layouts/15/PointPublishing.aspx?app=video&p=p&chid=4c47a755-f15f-4497-af3c-cfa521295b90&vid=845f9576-a28a-437d-bccb-5105f69287f4
 
+JUNOON - JUGAAD 
+a) JUGAAD: Agile, Persistence, Find ways to solve a problem (finding a way around)
+b) JUNOON: Driven by something other than showing up @ work, needs passion
+
+Take Aways:
+1) Great things team has done n last 06 months 
+2) Who can speak about this great work
+3) Mapping the terrain : List of things client is intresting in your account
+
 Managing Projects @ Nagarro
 https://nagarro.sharepoint.com/portals/hub/_layouts/15/PointPublishing.aspx?app=video&p=p&chid=e278e54a-083c-4272-81e6-374e93b5fea1&vid=56e0e23f-07b1-4588-8bdc-ba55055049eb
+What is CIRA Report? How its updated? What are CIRA meetings? Weekly updates on CIRA report?
+
+a) Customer Centric independent risk assessment report (Weekwise submission of this report)
+b) CIRA Meetings 
+
+What is PDSP? What its used for?
+Data presented in SMR meetings. What are the SMR meetings?
+
+Updated Risk register on monthly basis 
+
+Internal Audits (Project Health Check and project audit compliance) - 80% and above compliance is GREEN
+< 50% compliance is in RED 
+
+a) Types of Audits and there requirements 
+
+External Audits for CMMI-Dev
+
+Focus Sessions; Project Specifc sessions; INSPIRE EMail ID 
+
+Inter Cultural issues : Delivery processes
+
+Check these for PCEOs assignment
+https://nagarro.sharepoint.com/sites/process/inspire/SitePages/Project%20Management.aspx
+https://nagarro.sharepoint.com/sites/process/inspire/SitePages/Home.aspx
+https://nagarro.sharepoint.com/sites/process/inspire/SitePages/Metrics.aspx
+https://nagarro.sharepoint.com/sites/process/inspire/SitePages/Risk%20Management.aspx
 
 May-02, Thursday***********************************************************************
-May-03, Friday*************************************************************************
+Regoing through this 
+https://nagarro.sharepoint.com/portals/hub/_layouts/15/PointPublishing.aspx?app=video&p=p&chid=e278e54a-083c-4272-81e6-374e93b5fea1&vid=56e0e23f-07b1-4588-8bdc-ba55055049eb
+
+Project interview @ Samsung SDS for UI/UX component development and Example Web Pages: 
+https://nagarro.sharepoint.com/:p:/r/sites/SamsungOPUSWebcomponents/_layouts/15/Doc.aspx?sourcedoc=%7B8CCFEE2D-0801-4CBD-B1B2-235D66E2507F%7D&file=Nagarro%20Proposal%20to%20Samsung%20SDS%20for%20OPUS%20Web%20components.pptx&action=edit&mobileredirect=true&DefaultItemOpen=1
+https://nagarro.sharepoint.com/:w:/r/sites/SamsungOPUSWebcomponents/_layouts/15/Doc.aspx?sourcedoc=%7B2CD3BCF1-46B2-42A9-8490-554322D52CBD%7D&file=SEP_Front_OPUS_Components_Development_Requests_20190328.docx&action=default&mobileredirect=true&DefaultItemOpen=1
+
+Questions:
+Registered for Google Mobile UX Marathon Event
+https://events.withgoogle.com/mobile-ux-marathon/faqs/#content
+
+*************************************************************************************
+May-06, Monday:  
+1) Communication with project leadership (1 Hour)
+2) Checking Sprint health Gadget in JIRA (0.50 Hour)
+3) Sent responses to Panda
+To Change iSociety Manager account details: 
+indiafm.godrejfrontier@colliers.com;
+subhadeep.samanta@parametrique.com;
+manish.chandel@godrejproperties.com;
+Indiafm.Godrejfrontiersupport@colliers.com;
+Indiafm.Godrejfrontieraccount@colliers.com;
+Indiafm.Frontierclub@colliers.com;
+godrejfrontierfm@godrejproperties.com
+
+Electiricity Consumption Checking URL:
+http://45.122.120.26:8081/elnetpps/
+Login/PWD: B404/b404
+
+Bank details for Electiricty and Maintenance
+Bank Name:- HDFC Bank Ltd.
+A/C Name:- Godrej Frontier Maintenance Account.
+A/C No:- 00600310035350
+IFSC code:- HDFC0000240 
+
+
+Component Designing: 
+https://material.io/design/components/sliders.html#implementation
+
+Component Bucket
+******************************************************************
+Complexity : LOW
+Badge
+Checkbox
+Radio Button
+Popup
+Spinner
+Switch
+Tooltip
+
+Complexity : MEDIUM 
+Complexity : HIGH
+******************************************************************
+May-07, Tuesday
+a) Went to Bank for checking NACH facility 
+b) Reading through documents and balancing
+c) Meeting 30 mins for project status update 
+
+May-08, Wednesday
+May-09, Thursday
+May-10, Friday
+a) User stories for Login (Admin & User Web)
+b) Laptop allocation tracker (Project Level)
+c) Release planning meeting
+d) Closure on definitions document for DOR, DOD, Defect Prioritization Matrix with Vishal Gera
+e) 
+May-11, Saturday 
+a) Working on proposals 
+*************************************************************************************
+May-22, Wednesday 
+*************************************************************************************

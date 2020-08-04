@@ -1,0 +1,66 @@
+******************************************************************
+Week 1: 
+1) Ericsson Work
+	Daily Sync-Ups : 0.50 + 0.50 + 0.75 + 0.50 + 0.50
+
+2) RFP Work :- 
+Ercissson Global RFP
+1) Review sessions : 01 + 01 + 02 + 01 + 02 + 01 + 0.50 + 02 + 2.5
+2) India RFP: Question Submission :- 01 Hr
+3) Discussion with Ashima for Automation related content (0.50)
+4) Discussion with Aftab for ADM MS IT content (01)
+
+3) New Learning Work :- 
+a) Azure Solution Architect Certification : New Learning
+	 02/0.50 + 02/0.50 + 02/.050 + 02/0.50 + 02/0.50 
+b) APIGEE API management platform - Learning
+	 01/?? + 01/?? + 01/?? + 01/??
+
+******************************************************************
+Week 2: 
+1) Ericsson Work
+	Daily Sync-Ups : 0.50 + 0.50 + 0.50 + 0.50 + 0.50
+
+2) RFP Work :- 
+
+3) New Learning Work :-  
+a) Azure Solution Architect Certification : New Learning
+	 02/?? + 02/?? + 02/?? + 02/?? + 02/?? 
+b) APIGEE API management platform - Learning
+	 01/?? + 01/?? + 01/?? + 01/??
+c) Kubernetes Certified Adminitrator Course - Udemy Mumshad Mannambeth
+certified-kubernetes-administrator-with-practice-tests
+     01/?? + 01/?? + 01/?? + 01/?? + 01/??
+
+******************************************************************
+Week 3: 
+1) Ericsson Work
+	Daily Sync-Ups : 0.50 + 0.50 + 0.50 + 0.50 + 0.50
+
+2) RFP Work :-
+
+3) New Learning Work :- 
+a) Azure Solution Architect Certification : New Learning
+	 02/?? + 02/?? + 02/?? + 02/?? 
+b) APIGEE API management platform - Learning
+	 01/?? + 01/?? + 01/?? + 01/??
+
+******************************************************************
+Week 4:
+1) Ericsson Work
+	Daily Sync-Ups : 0.50 + 0.50 + 0.50 + 0.50 + 0.50
+	Interview Sessions : 05 
+	Followups for next steps : 03
+	CARE Review discussion : 01 
+
+
+2) RFP Work : 
+Global RFP Pricing data from Payscale : 1.5 Hrs
+
+3) New Learning Work :- 
+a) Azure Solution Architect Certification : New Learning
+	 02/02 + 02/02 + 02/02 + 02/02 
+b) APIGEE API management platform - Learning
+	 01/01 + 01/01 + 01/01 + 01/01
+
+******************************************************************

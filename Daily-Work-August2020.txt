@@ -1,0 +1,62 @@
+Week 1:
+Timesheet filling and day's prioritized tasks : 0.25 + 0.25 + 0.25 + 0.25 + 0.25
+
+1) Ericsson Work
+	Daily Sync-Ups : Rakshabandhan + 0.50 + 0.50 + 0.50 + 0.50
+
+2) RFP Work : 
+
+3) New Learning Work :- 
+	Domain
+	a) BSS platform knowldege building (05)
+
+	Technical
+	a) Azure Solution Architect Certification : New Learning
+	   Planned/Actual:-  02/?? + 02/?? + 02/?? + 02/?? 
+	b) Kubernetes Course (for CKAD) 
+	   Planned/Actual:- 01/?? + 01/?? + 01/?? + 01/??
+	c) APIGEE API management platform - Learning
+
+NagarroU Technology Sessions : 
+NCore Microservices Framework .Net Core - 01
+Levelup Quiz - 01
+Yammer Browsing - 02 
+
+Week 2:
+1) Ericsson Work
+	Daily Sync-Ups : 0.50 + 0.50 + 0.50 + 0.50 + 0.50
+
+2) RFP Work : 
+
+3) New Learning Work :- 
+	a) Azure Solution Architect Certification : New Learning
+	   Planned/Actual:-  02/?? + 02/?? + 02/?? + 02/?? 
+	b) Kubernetes Course (for CKAD) 
+	   Planned/Actual:- 01/?? + 01/?? + 01/?? + 01/??
+	c) APIGEE API management platform - Learning
+
+Week 3:
+1) Ericsson Work
+	Daily Sync-Ups :-  0.50 + 0.50 + 0.50 + 0.50 + 0.50
+
+2) RFP Work :-
+
+3) New Learning Work :- 
+	a) Azure Solution Architect Certification : New Learning
+	   Planned/Actual:-  02/?? + 02/?? + 02/?? + 02/?? 
+	b) Kubernetes Course (for CKAD) 
+	   Planned/Actual:- 01/?? + 01/?? + 01/?? + 01/??
+	c) APIGEE API management platform - Learning
+
+Week 4:
+1) Ericsson Work
+	Daily Sync-Ups :- 0.50  + 0.50 + 0.50 + 0.50 + 0.50
+
+2) RFP Work :- 
+
+3) New Learning Work :- 
+	a) Azure Solution Architect Certification : New Learning
+	   Planned/Actual:-  02/?? + 02/?? + 02/?? + 02/?? 
+	b) Kubernetes Course (for CKAD) 
+	   Planned/Actual:- 01/?? + 01/?? + 01/?? + 01/??
+	c) APIGEE API management platform - Learning

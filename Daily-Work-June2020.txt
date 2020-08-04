@@ -1,0 +1,57 @@
+******************************************************************
+Week 1: 
+1) Ericsson (10)
+	Daily Sync-Ups : 0.50 + 0.50 + 0.50 + 0.50 + 0.50 (2.5)
+	Meeting with Client - Portia : 0.50 (Monday) 
+	RAP Sessions : 06 Hrs (01 Hr + 01 Hr + 02 Hrs + 02 Hrs)
+	Discussion about selected candidates (01 Hr) 
+	a) Yatin :- 15 min + 15 min + 15 min + 15 min
+		
+2) ETISALAT Order Management Proposal (26)
+04 + 06 + 06 + 06 + 04 
+
+New Technical Learning (05)
+a) AWS Solution Architect Udemy Course : Stephane Mareak
+	 01 + 0.50 + 0.50 + 0.50 + 2.5
+b) APIGEE API management platform - Learning
+	 00 + 00 + 00 + 00 + 00
+
+******************************************************************
+Week 2 : 
+1) Ericsson 
+	Daily Sync-Ups : (03) 0.50 + 0.75 + 0.75 + 0.50 + 0.50
+	Meeting with Client - Portia : 0.50 (Monday) 
+	Ericsson Interview Sessions : 04 + 04 + 04 + 04 + 03 
+	Grooming Sessions/Discussions with selected candidates : 01 + 01 + 01 + 01 + 01
+
+New Technical Learning :- 
+a) AWS Solution Architect Udemy Course : Stephane Mareak 
+	 01 + 0.50 + 0.50 + 0.50 + 00
+b) APIGEE API management platform - Learning
+	 00 + 00 + 00 + 00 + 00 + 01
+******************************************************************
+Week 3 : 
+1) Ericsson 
+	Daily Sync-Ups : 0.75 + 0.50 + 0.75 + 0.50 + 0.50
+	Meeting with Client - Portia : 0.50 (Monday)
+	Resource Releasing : Rashmi Tomer release case : 05.00
+	RAP Sessions :- 01 + 01 + 01 + 01
+
+New Technical Learning :- 
+a) AWS Solution Architect Udemy Course : Stephane Mareak  
+	 01 + 0.50 + 0.50 + 0.50 + 00 + 04 (Exam) 
+b) Kubernetes Learning - Udemy Course 
+	 01 + 0.50 + 0.50 + 0.50 + 0.50 + 02
+******************************************************************
+Week 4 : 
+1) Ericsson 
+	Daily Sync-Ups : 0.50 + 0.50 + 0.50 + 0.50 + 0.50
+	Meeting with Client - Portia : 0.50
+
+RFP Work : Ericsson GLobal RFP 
+India RFP: Question Submission 06 Hr
+
+New Technical Learning :- 
+a) APIGEE API management platform - CourseEra platform
+	 00 + 00 + 00 + 00 + 00 + 02
+******************************************************************

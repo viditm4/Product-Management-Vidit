@@ -1,0 +1,50 @@
+Week 1 : 
+a) CoDe Plan Daily Sync-up & follow-ups with team members (07 Hours)
+b) AWS Solution Architect - Associate certification training on Udemy 
+c) Cloud certification mock tests
+
+******************************************************************
+Week 2 : 
+a) AWS Solution Architect - Associate certification training on Udemy (20 Hrs)
+b) AWS 2 Mock Test (05 Hrs)
+c) Code plan wrap up activities (05 Hrs)
+d) Cloud certification mock test analysis (10 Hrs) 
+e) Google APIGEE API Management Platform - New Learning (2.5 Hrs)
+
+******************************************************************
+Week 3 : 
+a) AWS 2 Mock Test (04 Hrs)
+b) Cloud certification mock test analysis (10 Hrs)
+c) Kotla discussion for Nokia POC and Release (04 Hrs) 
+   0.50 (discussion with Kotla) + 
+   0.25 (discussion with Vishal & Smarth) + 
+   0.25 (discussion with Mandeep) + 
+   0.50 (discussion with Nitin, Vijay) + 
+   0.50 (discussion with Kotla) + 
+   2.00 (discussion with Manmeet) 
+d) Mock Interview for Lakshay on Docker, Kubernetes and Jenkins (2 Hr)
+
+******************************************************************
+Week 4 :  
+a) Flexi Leave (25-May Eid Holiday) (08 Hrs)
+
+b) SAP ERP Timehseet filling : Walktrhough session & Timesheet filling (1 hr)
+
+c) Ericsson Daily Sync-up Meet (Flexi-Holiday + Cancelled + 0.60 + 1.5 + 0.50) 2.5 Hrs
+
+d) Ericsson Java Open needs 
+discussion with Client - Portia : 02 Hrs
+internal discussion             : 02 Hrs
+discussion with Vijay           : 0.25 Hrs
+opening needs with TAP          : 0.50 Hrs
+
+e) ETISALAT Order Management Proposal 
+Internal Discussion-1            : 01 Hr 
+Internal Discussion-2            : 01 Hr
+(Non-Biz) Discussion with Soumya : 01 Hr
+(Kick-off)Internal Discussion-3  : 02 Hr
+
+Personal Learning: 
+AWS External Certification exam (02 + 00 + ?? + ??)
+
+******************************************************************
